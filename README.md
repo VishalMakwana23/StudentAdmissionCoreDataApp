@@ -16,7 +16,7 @@
  ## How StudentAdmissionCoreDataApp Work
 
 
- ![](output/coredata.gif)
+ ![](Output/coredata.gif)
  
  ### Output
   - Login Page With Validation And UserDefaults
@@ -28,9 +28,11 @@
 ![](Output/2.png)
 
  - Student List (Show existing Student and also Add,Update and Remove Student)
+ 
 ![](Output/3.png)
 
  -Add Student Page
+ 
 ![](Output/4.png)
 
  - Notice Page (Show existing Notice and also Add,Update and Remove Notice)

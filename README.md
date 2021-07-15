@@ -16,7 +16,7 @@
  ## How StudentAdmissionCoreDataApp Work
 
 
- ![](StudentAdmissionCoreDataApp/output/coredata.gif)
+ ![](output/coredata.gif)
  
 
 

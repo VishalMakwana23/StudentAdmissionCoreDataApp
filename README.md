@@ -48,7 +48,8 @@
 ![](output/7.png)
 
 - Change Password
-![](output/7.png)
+
+![](output/8.png)
 
 
 
